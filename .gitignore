@@ -2,3 +2,10 @@ venv/
 .ipynb_checkpoints
 .DS_Store
 .env
+
+Motor Insurance - Dataset(Cleaned_Safety_Prompts).csv
+faulty_subcats.csv
+
+bert-classifier/
+my_awesome_model/
+tmp_trainer
